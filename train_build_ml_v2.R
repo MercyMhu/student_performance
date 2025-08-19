@@ -6,6 +6,7 @@ library(stats)
 library(data.table)
 library(tidyverse)
 #Load data
+#Capstone is a folder in 
 student_data <- read.csv("~/Capstone/student_data.csv")
 
 sum(is.na(student_data))
