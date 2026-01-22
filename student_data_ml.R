@@ -30,6 +30,7 @@ secondary_colours <- c("#000000", "#522953", "#641D2E", "#A62F42",
                                 "#FFBD51", "#FFEFD5", "#F5F5F5", "#A6A6A6")
 
 #Data downloaded from https://www.kaggle.com/datasets/devansodariya/student-performance-data
+# The wd is in workbench
 
 #call in the uploaded data into R
 #new_dataframe <- source_data(options)
